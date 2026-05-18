@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img src="./assets/aura.gif" width="90%">
+<img src="https://raw.githubusercontent.com/Rushda971/Rushda971/main/assets/aura.gif" width="90%">
 </p>
 
 <br/><br/>
@@ -38,10 +38,10 @@
 </div>
 
 
-### ❖ CURSED ENERGY OUTPUT
+###  CURSED ENERGY OUTPUT
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushda971&bg_color=0a0010&color=CC66FF&line=7B2FBE&point=FF006E&area=true&hide_border=false&area_color=7B2FBE30" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushda971&bg_color=0a0010&color=CC66FF&line=7B2FBE&point=FF006E&area=true&hide_border=false&area_color=7B2FBE30" />
 </div>
 
 <br/>
@@ -50,7 +50,7 @@
   <img width="80%" src="https://streak-stats.demolab.com?user=Rushda971&theme=dark&background=0a0010&border=7B2FBE&ring=CC66FF&fire=FF006E&currStreakLabel=CC66FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9966cc" />
 </div>
 
-# 🐍 Contribution Creature
+#  Contribution Creature
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
